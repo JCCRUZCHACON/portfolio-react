@@ -72,7 +72,7 @@ const About = () => {
           </div>
           <button>
             Descargar CV 
-            <a target="_blank" href="https://drive.google.com/drive/folders/1Up_A5oIjLcOGGZRbL9rE0WDkqecExtY2">
+            <a target="_blank" href="./cv.pdf">
             <i className="fa-solid fa-download"></i>
             </a>
             <span className="overlay"></span>
