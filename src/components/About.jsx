@@ -71,7 +71,10 @@ const About = () => {
             </div>
           </div>
           <button>
-            Descargar CV <i className="fa-solid fa-download"></i>
+            Descargar CV 
+            <a target="_blank" href="https://drive.google.com/drive/folders/1Up_A5oIjLcOGGZRbL9rE0WDkqecExtY2">
+            <i className="fa-solid fa-download"></i>
+            </a>
             <span className="overlay"></span>
           </button>
         </div>
@@ -80,3 +83,6 @@ const About = () => {
   );
 };
 export default About;
+
+
+
