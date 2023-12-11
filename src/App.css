@@ -157,7 +157,7 @@ nav ul li {
 
     color: #fff;
     padding: 50px 20px;
-    margin-top: 10rem;
+    margin-top: 0.02rem;
     height: 100vh;
 }
 .sobremi .contenido-seccion{
@@ -298,7 +298,7 @@ nav ul li {
 
 /* ?----------------------SKILLS----------------------- */
 .skills {
-    margin-top: 20rem;
+    margin-top: 5rem;
     color: var(--primary-white);
     text-align: center;
     padding: 10rem;
@@ -355,7 +355,7 @@ nav ul li {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 10rem;
+    margin-top: 0.02rem;
     color: #fff;
     padding: 5rem;
 }
@@ -467,7 +467,7 @@ nav ul li {
 }
 
 .portfolio{
-    margin-top: 15rem;
+    margin-top: 5rem;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -584,6 +584,12 @@ nav ul li {
     width: 100%;
 }
 
+.footer_end {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:#fff
+}
 
 @media screen and (max-width:900px) {
     .col {

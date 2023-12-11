@@ -1,4 +1,5 @@
 const About = () => {
+
   return (
     <>
       {/* ------------- SECCION SOBRE MI ---------------------- */}
@@ -6,10 +7,13 @@ const About = () => {
         <div className="contenido-seccion">
           <h2>Sobre Mí</h2>
           <p className="skill-p">
-            <span>Hola, soy Juan Cruz.</span> Egresado de la carrera de
-            computacion e informatica, con conocimientos en javascript, html.
-            css react, bases de datos mysql, actualmente trabajo como
-            programador en ideas text.
+            <span>Saludos, Soy Desarrollador Web Full Stack.</span> Egresado de la carrera de
+            Sistemas, mi stack mas solido es con ReactJS + NodeJs con javaScript con bases de datos
+            Postgres, MySQL, además 
+            de herramientas fundamentales como Git, HTML Y YCSS.<br/>
+            Asi mismo , entre mis habilidades blandas destacan la adaptabilidad, el pensamiento critico,
+            la gestion del tiempo, el trabajo en equipo, la capacidad de resolución de problemas, la
+            resiliencia y el compromiso.
           </p>
 
           <div className="fila">
@@ -24,14 +28,6 @@ const About = () => {
                 <li>
                   <strong>Email</strong>
                   charly_jc22@hotmail.com
-                </li>
-                <li>
-                  <strong>Dirección</strong>
-                  los rubies 1964 sjl
-                </li>
-                <li>
-                  <strong>Cargo</strong>
-                  <span>Programador</span>
                 </li>
               </ul>
             </div>
