@@ -27,7 +27,7 @@ const About = () => {
                 </li>
                 <li>
                   <strong>Email</strong>
-                  charly_jc22@hotmail.com
+                  confeccionesmc2018@gmail.com
                 </li>
               </ul>
             </div>
@@ -41,20 +41,6 @@ const About = () => {
                     <i className="fa-solid fa-headphones"></i>
                   </a>
                   <span>MUSIC</span>
-                </div>
-
-                <div className="interes">
-                  <a href="https://viajaporperu.com/">
-                    <i className="fa-solid fa-plane"></i>
-                  </a>
-                  <span>TRAVEL</span>
-                </div>
-
-                <div className="interes">
-                  <a href="https://www.fifa.com/es/tournaments/mens/worldcup">
-                    <i className="fa-solid fa-person-hiking"></i>
-                  </a>
-                  <span>SPORT</span>
                 </div>
 
                 <div className="interes">

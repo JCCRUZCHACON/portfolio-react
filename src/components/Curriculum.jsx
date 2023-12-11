@@ -12,8 +12,10 @@ const Curriculum = () => {
                 <div className="item izq">
                   <h4>Especialidad</h4>
                   <span className="casa">Academlo</span>
-                  <span className="fecha">Mayo - Diciembre 2023</span>
+                  <span className="fecha">año : 2023</span>
                   <p>Full Stack Web Developmet</p>
+                  <link target="_blank" rel="stylesheet" href="https://certiwise.co/verify/333" />
+                  <a target="_blank" href="https://certiwise.co/verify/333">link de certificado</a>
                   <div className="conectori">
                     <div className="circuloi"></div>
                     <p></p>
@@ -32,21 +34,19 @@ const Curriculum = () => {
                 </div>
 
                 <div className="item izq">
-                  <h4>INSITUTO</h4>
                   <span className="casa">Telesup</span>
                   <span className="fecha">2009 - 2012</span>
                   <p>Computación e Informatica</p>
-                  <a target="_blank" href="./public/images/certificadoTelesup.jpg">link de certificado</a>
+                  <a target="_blank" href="./images/certificadoTelesup.jpg">link de certificado</a>
                   <div className="conectori">
                     <div className="circuloi"></div>
                   </div>
                 </div>
                 <div className="item izq">
-                  <h4>INSITUTO</h4>
                   <span className="casa">Senati</span>
                   <span className="fecha">2003 - 2005</span>
                   <p>Mecanica Textil</p>
-                  <a target="_blank" href="./public/images/certificadoSenati.jpg">link de certificado</a>
+                  <a target="_blank" href="./images/certificadoSenati.jpg">link de certificado</a>
                   <div className="conectori">
                     <div className="circuloi"></div>
                   </div>
